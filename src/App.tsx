@@ -179,7 +179,7 @@ const LandingPage: React.FC = () => {
                   <div className="w-12 h-12 bg-slate-800 rounded-full flex items-center justify-center text-blue-400"><Linkedin size={24} /></div>
                   <div>
                     <p className="text-xs text-slate-500 font-bold uppercase tracking-widest">Professional Network</p>
-                    <a href="https://www.linkedin.com/in/vinay-jain-consultant" target="_blank" rel="noreferrer" className="text-xl font-bold hover:text-blue-400 transition underline underline-offset-4">LinkedIn Profile</a>
+                    <a href="https://www.linkedin.com/in/vinay-jain-433ab4193/" target="_blank" rel="noreferrer" className="text-xl font-bold hover:text-blue-400 transition underline underline-offset-4">LinkedIn Profile</a>
                   </div>
                 </div>
 
